@@ -6,7 +6,7 @@
 ## 🔗 Quick Links
 | 🚀 Live App | 🎥 Demo Video |
 |---|---|
-| [Open FinWise AI](PASTE_STREAMLIT_APP_URL_HERE) | [Watch the demo](PASTE_DEMO_VIDEO_URL_HERE) |
+| [Open FinWise AI](https://finwise-ai-project-by-khadija.streamlit.app/) | [Watch the demo](https://youtu.be/TeeclCnNgOc) |
 
 > See [`DEPLOYMENT.md`](./DEPLOYMENT.md) for how these two links were produced,
 > and how to update them once your app is live and your video is recorded.
