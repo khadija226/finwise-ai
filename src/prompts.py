@@ -41,18 +41,18 @@ JSON_SCHEMA_DESCRIPTION = """
 Return ONLY valid JSON (no markdown fences, no commentary before or after)
 matching EXACTLY this schema:
 
-{
+{{
   "financial_summary": "string - a short 2-3 sentence overview",
   "financial_health_score": 0,
   "spending_analysis": [
-    { "category": "string", "observation": "string", "recommendation": "string" }
+    {{ "category": "string", "observation": "string", "recommendation": "string" }}
   ],
   "risk_level": "LOW | MEDIUM | HIGH",
   "top_priorities": ["string", "string"],
   "budget_recommendations": ["string", "string"],
   "savings_strategy": ["string", "string"],
   "next_month_action_plan": ["string", "string"]
-}
+}}
 
 Rules:
 - "financial_health_score" must be an integer between 0 and 100.
